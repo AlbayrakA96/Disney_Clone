@@ -42,8 +42,8 @@ const Nav = styled.nav`
   height: 70px;
   background: #090b13;
   display: flex;
-align-items: center;
-  padding 0 36px;
+  align-items: center;
+  padding 0 36px; 
 `;
 
 const Logo = styled.img`
@@ -72,7 +72,7 @@ const NavMenu = styled.div`
       &:after {
         content: "";
         height: 2px;
-        background: blue;
+        background: #062e6f;
         position: absolute;
         left: 0;
         right: 0;
