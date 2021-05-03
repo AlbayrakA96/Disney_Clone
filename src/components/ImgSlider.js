@@ -24,6 +24,12 @@ const ImgSlider = () => {
       <Wrap>
         <img src="/images/slider-scale.jpg" alt="" />
       </Wrap>
+      <Wrap>
+        <img src="/images/slider-scale.jpg" alt="" />
+      </Wrap>
+      <Wrap>
+        <img src="/images/slider-scale.jpg" alt="" />
+      </Wrap>
     </Carousel>
   );
 };
